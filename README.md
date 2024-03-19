@@ -2,7 +2,7 @@
 2D primitive shapes / loops
 https://lorenmartin.github.io/workshop_task_1/
 
-These are the notes i made for the foloowing workshop, in the end i used chatGPT to help me do code for moving spheres. VhatGPT understand the coding better.
+These are the notes i made for the following workshop, in the end i used chatGPT to help me do code for moving spheres. Chat GPT helped me understand the coding better.
 
 
 {} curly brackets means full loops 
